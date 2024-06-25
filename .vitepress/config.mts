@@ -20,7 +20,7 @@ export default defineConfig({
             {text: 'Commentary', link: '/commentary/'},
         ],
         socialLinks: [
-            {icon: 'github', link: 'https://github.com/vuejs/vitepress'}
+            {icon: 'github', link: 'https://github.com/timmattison/pleasantville-ny-cc'}
         ],
     },
     base: '/',
