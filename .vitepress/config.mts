@@ -22,6 +22,9 @@ export default defineConfig({
         socialLinks: [
             {icon: 'github', link: 'https://github.com/timmattison/pleasantville-ny-cc'}
         ],
+        search: {
+            provider: 'local'
+        }
     },
     base: '/',
 })
