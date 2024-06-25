@@ -5,21 +5,21 @@ layout: home
 hero:
   name: "Pleasantville, NY"
   text: "An unofficial site for Pleasantville, NY"
-  tagline: My great project tagline
+  tagline: "If the government won't tell us what's going on, we'll do it ourselves"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Just the data
+      link: /data
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Commentary
+      link: /commentary
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: We need action
+    details: And if you want something done right you have to do it yourself
+  - title: We don't need red tape
+    details: We will report about what's going on as soon as possible
+  - title: People need to know
+    details: If we can't depend on the government to tell us what's going on, we'll do it ourselves
 ---
 
