@@ -56,11 +56,6 @@ Avenue is break even point.
 
 ## The data
 
-### Village tax roll
-
-The [2023 village final tax roll](https://www.pleasantville-ny.gov/sites/g/files/vyhlif1076/f/uploads/2023_final_assessment_roll.pdf)
-was used to determine which properties are in the village.
-
 ### Grant Street routes
 
 These are the routes that use the Grant Street crossing that would be affected by its closing.
@@ -112,6 +107,11 @@ already is faster via Pleasantville Road.
   miles, 26 minutes
 
 ## Resources
+
+### Village tax roll
+
+The [2023 village final tax roll](https://www.pleasantville-ny.gov/sites/g/files/vyhlif1076/f/uploads/2023_final_assessment_roll.pdf)
+was used to determine which properties are in the village.
 
 ### Street listing
 
