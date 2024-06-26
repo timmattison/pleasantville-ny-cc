@@ -13,6 +13,7 @@ export default defineConfig({
     description: "An unofficial site for Pleasantville, NY",
     themeConfig: {
         sidebar: generateSidebar(vitepressSidebarOptions),
+
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             {text: 'Home', link: '/'},
