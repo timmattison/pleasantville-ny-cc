@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Commentary
       link: /commentary
+    - theme: alt
+      text: News
+      link: /news
 
 features:
   - title: We need action

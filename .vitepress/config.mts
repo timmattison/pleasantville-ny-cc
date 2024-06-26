@@ -18,6 +18,7 @@ export default defineConfig({
             {text: 'Home', link: '/'},
             {text: 'Data', link: '/data/'},
             {text: 'Commentary', link: '/commentary/'},
+            {text: 'News', link: '/news/'},
         ],
         socialLinks: [
             {icon: 'github', link: 'https://github.com/timmattison/pleasantville-ny-cc'}
