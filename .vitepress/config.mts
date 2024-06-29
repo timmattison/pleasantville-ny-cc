@@ -28,6 +28,5 @@ export default defineConfig({
             provider: 'local'
         }
     },
-    srcExclude: ['**/README.md'],
     base: '/',
 })
