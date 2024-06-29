@@ -5,7 +5,6 @@ const vitepressSidebarOptions = {
     excludeFolders: ['unfinished'],
     sortMenusByFrontmatterDate: true,
     sortMenusOrderByDescending: true,
-    srcExclude: ['**/README.md'],
 }
 
 // https://vitepress.dev/reference/site-config
