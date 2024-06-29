@@ -1,5 +1,5 @@
 ---
-title: "The positive impact of closing the Grant Street crossing"
+title: "The human impact of closing the Grant Street crossing"
 date: 2024-06-28 20:32:00
 ---
 
